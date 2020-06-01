@@ -1,3 +1,11 @@
+/* Header */
+.header {
+	padding: 20px;
+	text-align: center;
+	background: #1abc9c;
+	color: white;
+	font-size: 24;
+}
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select,
 textarea {
